@@ -1,5 +1,5 @@
 ##
-setwd("C:/Users/Kiran/Desktop/Pump it Up Data Mining the Water Table")
+setwd("C:/Users/AJKoma/Desktop/Pump it Up Data Mining the Water Table")
 X = read.csv("Training Set Values.csv")
 Y = read.csv("Training Set Labels.csv")
 test = read.csv("Test Set Values.csv")
